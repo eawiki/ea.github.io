@@ -1,5 +1,10 @@
 ---
 layout: post
-title: 测试
+title: EA in brief
+comments: true
+author: Hongru
+image: 
+categories: [EA]
 ---
-测试
+
+this is a test
