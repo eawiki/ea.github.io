@@ -7,4 +7,4 @@ image:
 categories: [EA]
 ---
 
-this is a test
+this is a test, thank you
